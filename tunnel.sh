@@ -1,6 +1,6 @@
 #!/bin/bash
 PORT=10006
-SERVER="1.32.58.108"
+SERVER="105.35.58.108"
 REMOTEIP="127.0.0.1"
 REMOTEPORT=22
 OPTION="-R" # -R = Remote, -L = Local
